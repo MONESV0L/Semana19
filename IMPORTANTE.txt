@@ -1,0 +1,5 @@
+Comandos a utilizar para que la Aplicación funcione
+
+npm init --yes
+npm install express mongoose ejs morgan
+npm i nodemon -D
